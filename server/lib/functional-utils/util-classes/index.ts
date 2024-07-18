@@ -1,1 +1,0 @@
-export { ComposableObject } from './ComposableObject';
